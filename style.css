@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.lista-arquivo-single {
+  background-color: #313131;
+  max-width: 300px;
+  padding: 15px 30px
+}
+
+.lista-arquivo-single p {
+  padding-bottom: 10px;
+  border-bottom: 1px solid #fff
+}
+
+.lista-arquivo-single a {
+  font-size: 18px;
+  color: #fff;
+  text-decoration:none;
+}
+
+textarea {
+  width: 500;
+  height: 400;
+}
